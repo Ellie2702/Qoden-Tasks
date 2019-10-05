@@ -67,9 +67,14 @@ namespace task_2
         public static void dotes(List<int> x, List<string> res)
         {
             string d = "";
+            int max = x.Max();
+            
+            int dot = 0;
+      
             for(int i = 0; i < x.Count; i++)
             {
-                for (int j = 0; j < x.ElementAt(i); j++)
+                dot =Convert.ToInt32(Math.Round(((float)max / 10.0f * x.ElementAt(i))));
+                for (int j = 0; j < dot; j++)
                 {
                     d += ".";
                 }
