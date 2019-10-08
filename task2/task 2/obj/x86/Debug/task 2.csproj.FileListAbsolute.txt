@@ -1,9 +1,0 @@
-C:\Users\Ellie\Desktop\Qoden\task 2\task 2\bin\Debug\task 2.exe
-C:\Users\Ellie\Desktop\Qoden\task 2\task 2\bin\Debug\task 2.pdb
-C:\Users\Ellie\Desktop\Qoden\task 2\task 2\obj\x86\Debug\task 2.exe
-C:\Users\Ellie\Desktop\Qoden\task 2\task 2\obj\x86\Debug\task 2.pdb
-C:\Users\Ellie\Desktop\Qoden\task2\task 2\obj\x86\Debug\task 2.exe
-C:\Users\Ellie\Desktop\Qoden\task2\task 2\obj\x86\Debug\task 2.pdb
-C:\Users\Ellie\Desktop\Qoden\task2\task 2\bin\Debug\task 2.exe
-C:\Users\Ellie\Desktop\Qoden\task2\task 2\bin\Debug\task 2.pdb
-C:\Users\Ellie\Desktop\Qoden\task2\task 2\obj\x86\Debug\task 2.csprojResolveAssemblyReference.cache

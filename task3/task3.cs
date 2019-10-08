@@ -64,7 +64,7 @@ namespace task3
             }
 
             Console.Write(result.ToString());
-            Console.ReadLine();
+            
 
         }
     }

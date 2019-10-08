@@ -1,5 +1,0 @@
-C:\Users\Ellie\Desktop\Qoden\task3\task3\bin\Debug\task3.exe
-C:\Users\Ellie\Desktop\Qoden\task3\task3\bin\Debug\task3.pdb
-C:\Users\Ellie\Desktop\Qoden\task3\task3\obj\x86\Debug\task3.exe
-C:\Users\Ellie\Desktop\Qoden\task3\task3\obj\x86\Debug\task3.pdb
-C:\Users\Ellie\Desktop\Qoden\task3\task3\obj\x86\Debug\task3.csprojResolveAssemblyReference.cache

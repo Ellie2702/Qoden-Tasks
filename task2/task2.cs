@@ -131,7 +131,7 @@ namespace task_2
                 Console.WriteLine(result.ElementAt(i) + w.ElementAt(i) + " " + doted.ElementAt(i));
             }
 
-            Console.ReadLine();
+            
             
         }
     }
